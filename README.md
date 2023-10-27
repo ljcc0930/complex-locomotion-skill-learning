@@ -1,5 +1,5 @@
 # Complex Locomotion Skill Learning via Differentiable Physics
-[[Paper](https://openreview.net/pdf?id=YpBHDlalKDG)]
+[[OpenReview](https://openreview.net/pdf?id=YpBHDlalKDG)] [[arXiv](https://arxiv.org/abs/2206.02341)]
 
 ## RL
 
